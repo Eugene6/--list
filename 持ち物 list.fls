@@ -1,0 +1,47 @@
+PWD /Users/ishizukayuma/Desktop/持ち物 list
+INPUT /usr/local/texlive/2013/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf.cnf
+INPUT /usr/local/texlive/2013/texmf-var/web2c/eptex/platex.fmt
+INPUT 持ち物 list.tex
+OUTPUT 持ち物 list.log
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT 持ち物 list.aux
+INPUT 持ち物 list.aux
+OUTPUT 持ち物 list.aux
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/min10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/min10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+OUTPUT 持ち物 list.dvi
+INPUT 持ち物 list.aux

@@ -1,0 +1,99 @@
+This is e-pTeX, Version 3.1415926-p3.4-110825-2.6 (utf8.euc) (TeX Live 2013) (format=platex 2014.6.4)  6 FEB 2015 15:18
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"æ^^8c^^81ã^^81âˆž^^89© list.tex"
+(./æ^^8c^^81ã^^81âˆž^^89© list.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2011/06/27> patch level 0)
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen119
+\extrarowheight=\dimen120
+\NC@list=\toks15
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 130.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\everycr=\toks16
+\minrowclearance=\skip45
+)
+(./æ^^8c^^81ã^^81âˆž^^89© list.aux)
+\openout1 = `"æ^^8c^^81ã^^81âˆž^^89© list.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 7.
+
+
+LaTeX Warning: No \author given.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+[1
+
+] (./æ^^8c^^81ã^^81âˆž^^89© list.aux) ) 
+Here is how much of TeX's memory you used:
+ 612 strings out of 494008
+ 8103 string characters out of 6154473
+ 61654 words of memory out of 5000000
+ 4123 multiletter control sequences out of 15000+600000
+ 12395 words of font info for 48 fonts, out of 8000000 for 9000
+ 745 hyphenation exceptions out of 8191
+ 34i,9n,19p,215b,269s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on "æ^^8c^^81ã^^81âˆž^^89© list.dvi" (1 page, 872 bytes).
