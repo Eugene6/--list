@@ -2,6 +2,9 @@
 
 \usepackage{colortbl}
 \title{旅行持ち物 list}
+\newcommand{\maru}{$\bigcirc$}
+\newcommand{\sankaku}{$\bigtriangleup$}
+\newcommand{\batsu}{$\times$}
 
 \begin{document}
 \maketitle
@@ -9,7 +12,24 @@
 \begin{center}
 \begin{table}[htb]
 	\begin{tabular}{| c | l | c | l | c |} \hline
-		種目 & 品名 &　必要度　& 備考 & check 欄	
+		種目 & 品名 &　必要度　& 備考 & check 欄\\ \hline \hline
+		貴重品　		& passport &  \maru &  & \\ \cline{2-5}
+		 			& 現金 & \maru & & \\ \cline{2-5}
+					& credit card &  & & \\ \cline{2-5}
+					& 航空券 & \maru & & \\ \hline
+		書類・文房具	& 筆記用具 & \maru & & \\ \cline{2-5}
+					& guide book & \sankaku & & \\ \cline{2-5}
+					& memo帳 & \maru & & \\ \cline{2-5}
+					& 旅行予定表& \maru & & \\ \hline
+		洗面用具　　　& shampoo・soap &\sankaku & & \\ \cline{2-5}
+					& towel & \maru & & \\ \cline{2-5}
+					& 歯磨き & \maru & & \\ \cline{2-5}
+					& 髭剃り & \maru & 充電器　& \\ \hline
+		 衣類　　		& shirt &\maru & & \\ \cline{2-5}
+		 			& pants &\maru & & \\ \cline{2-5}
+					& 下着 &\maru & & \\ \cline{2-5}
+		 			& 水着 &\sankaku & & \\ \cline{2-5}
+					
 	\end{tabular}
 \end{table}
 \end{center}
