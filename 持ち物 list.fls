@@ -7,11 +7,13 @@ INPUT 持ち物 list.tex
 OUTPUT 持ち物 list.log
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
-INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/size11.clo
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/min10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
@@ -30,11 +32,7 @@ OUTPUT 持ち物 list.aux
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/min10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/tmin10.tfm
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/ptex/standard/min10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
-INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -43,5 +41,7 @@ INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /usr/local/texlive/2013/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 OUTPUT 持ち物 list.dvi
 INPUT 持ち物 list.aux
